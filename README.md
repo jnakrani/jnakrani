@@ -26,12 +26,6 @@ I am passionate about **AI-driven solutions** and creating applications that are
 ### Education 🎓
 - Bachelor of Technology in Comuter Science and Engineering.
 - AWS Certified.
-
-
-### Connect with me:
-| LinkedIn                                                                                                                                                |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![LinkedIn](https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/jnakrani/)                |
                                           
 
 
